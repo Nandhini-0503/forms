@@ -1,0 +1,24 @@
+label{
+    padding:10px;
+    display:block;
+    border-radius: 50px;
+}
+body{
+    background-color:palevioletred;
+}
+form{
+    margin:0px 450px 0px 450px;
+    border-radius:10%;
+    background-color:skyblue;
+}
+input[type=Submit]{
+    color:green;
+    background-color:rgb(152, 251, 190);
+}
+
+input[type=Submit]:hover{
+        background-color:red;
+}
+#Submit{
+    padding:10px;
+}
